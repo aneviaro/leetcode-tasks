@@ -8,6 +8,7 @@ Leetcode Tasks is a python playground to solve leetcode tasks.
 - [x] Two sums
 - [x] Zig Zag
 - [x] Atoi
+- [x] Container With Most Water
 
 ## Installation
 
