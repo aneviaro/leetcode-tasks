@@ -7,6 +7,7 @@ Leetcode Tasks is a python playground to solve leetcode tasks.
 - [x] Reverse Integer
 - [x] Two sums
 - [x] Zig Zag
+- [x] Atoi
 
 ## Installation
 
