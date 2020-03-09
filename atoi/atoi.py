@@ -21,10 +21,10 @@ class Solution(object):
                 result_str += char
             else:
                 break
-        #Check for int32
+        # Check for int32
         try:
             if abs(int(result_str)) > (1 << 31) - 1:
-                return -(1 << 31) if result_str[0] == "-" else (1 << 31)-1
+                return -(1 << 31) if result_str[0] == "-" else (1 << 31) - 1
             return int(result_str)
         except:
             return 0
