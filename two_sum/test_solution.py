@@ -1,6 +1,6 @@
 import pytest
 
-from two_sum import Solution
+from two_sum.two_sum import Solution
 
 
 @pytest.fixture(scope='session', autouse=True)
